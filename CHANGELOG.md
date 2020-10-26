@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+- fix default `libgalera_smm.so` path on x86\_64 systems
 - resolved cookstyle error: spec/libraries/helper_spec.rb:2:18 convention: `Style/RedundantFileExtensionInRequire`
 
 ## 4.1.0 (2020-08-27)
